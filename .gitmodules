@@ -1,3 +1,6 @@
 [submodule "module/Application"]
 	path = module/Application
 	url = https://github.com/fizk/Application.git
+[submodule "module/Whiteboard"]
+	path = module/Whiteboard
+	url = https://github.com/fizk/Whiteboard.git
